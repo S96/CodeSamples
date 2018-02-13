@@ -9,4 +9,4 @@ ModelTools - Basic model creation used as part of a dx11 renderer, but will prob
 
 DeltA Engine - Excerpt from generative terrain system that was deformable by in game events and collisions and could display 4 height based texture regions as well as a special texture applied to deformed areas that blended into the surrounding textures.
 
-SIMD Math Library - written as an optimized math library employing SIMD operations and proxy objects
+SIMD Math Library - written as an optimized math library employing SIMD operations and proxy objects which force row major matrix operations
